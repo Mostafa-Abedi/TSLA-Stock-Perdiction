@@ -99,8 +99,8 @@ Each run of `predict_daily.py` outputs a daily recommended trade action: **Buy**
 
 ## ✨ Contributors
 
-- Your Name ([@GitHubUsername](https://github.com/yourusername))
-- Group Members' Names ([@GitHubUsername](https://github.com/memberusername))
+- Your Name ([Mostafa Abedi](https://github.com/mostafa-abedi))
+- Group Members' Names ([Rupam Mittal](https://github.com/memberusername))
 
 ---
 
