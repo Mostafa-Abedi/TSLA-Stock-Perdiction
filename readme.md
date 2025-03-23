@@ -1,4 +1,4 @@
-```markdown
+``markdown
 # 📈 Tesla Stock ML Trading Agent
 
 This repository contains the implementation of a **Machine Learning (ML) trading agent** designed to predict Tesla's stock price movements and perform trading in a simulated real-time environment.
